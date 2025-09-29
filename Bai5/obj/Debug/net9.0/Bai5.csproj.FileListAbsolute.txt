@@ -1,0 +1,14 @@
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/bin/Debug/net9.0/Bai5
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/bin/Debug/net9.0/Bai5.deps.json
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/bin/Debug/net9.0/Bai5.runtimeconfig.json
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/bin/Debug/net9.0/Bai5.dll
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/bin/Debug/net9.0/Bai5.pdb
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.AssemblyInfoInputs.cache
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.AssemblyInfo.cs
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.csproj.CoreCompileInputs.cache
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.dll
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/refint/Bai5.dll
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.pdb
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/Bai5.genruntimeconfig.cache
+/Users/thienan/PTPMHĐT_Tuan5_Lab1/Bai5/obj/Debug/net9.0/ref/Bai5.dll

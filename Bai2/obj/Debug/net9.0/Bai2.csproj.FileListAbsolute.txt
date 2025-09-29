@@ -1,0 +1,14 @@
+/Users/thienan/Bai4/Bai2/bin/Debug/net9.0/Bai2
+/Users/thienan/Bai4/Bai2/bin/Debug/net9.0/Bai2.deps.json
+/Users/thienan/Bai4/Bai2/bin/Debug/net9.0/Bai2.runtimeconfig.json
+/Users/thienan/Bai4/Bai2/bin/Debug/net9.0/Bai2.dll
+/Users/thienan/Bai4/Bai2/bin/Debug/net9.0/Bai2.pdb
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.AssemblyInfoInputs.cache
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.AssemblyInfo.cs
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.csproj.CoreCompileInputs.cache
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.dll
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/refint/Bai2.dll
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.pdb
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/Bai2.genruntimeconfig.cache
+/Users/thienan/Bai4/Bai2/obj/Debug/net9.0/ref/Bai2.dll
